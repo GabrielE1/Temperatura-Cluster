@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperatura Cluster</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Sair</string>
+    <string name="reload">Atualizar</string>
+    <string name="title_activity_notificacao">Notificacao</string>
+</resources>
